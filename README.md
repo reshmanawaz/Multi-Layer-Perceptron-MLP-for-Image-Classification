@@ -1,0 +1,2 @@
+# Building a Multi-Layer Perceptron (MLP) for Image Classification
+In this task, we are dealing with the MNIST dataset, a widely used benchmark dataset in machine learning, containing handwritten digit images represented by 784 input features and classified into 10 output classes (digits 0-9). A pre-trained Multilayer Perceptron (MLP) model is provided, consisting of an input layer with 784 neurons, two hidden layers of 200 and 100 neurons, and an output layer with 10 neurons, using ReLU activation for the hidden layers and a Softmax function for the output layer.
